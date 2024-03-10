@@ -46,7 +46,7 @@ public class ThreadVetorController extends Thread {
 		resultado /= Math.pow(10, 9);
 		
 		System.out.println("Tempo para percorrer o vetor[" + arr.length + "], utilizando o laço " 
-				+ tipo + ", foi: " + resultado + "ms");
+				+ tipo + ", foi: " + resultado + " segundos");
 	}
 
 }
