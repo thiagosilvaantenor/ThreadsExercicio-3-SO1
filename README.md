@@ -15,6 +15,8 @@ Caso queira ver os outros exercícios:
 - [Exercício 1](https://github.com/thiagosilvaantenor/ThreadsExercicio-1-SO1)
 - [Exercício 2](https://github.com/thiagosilvaantenor/ThreadsExercicio-2-SO1)
 - [Exercício 4](https://github.com/thiagosilvaantenor/ThreadsExercicio-4-SO1)
+- [Exercício 5](https://github.com/thiagosilvaantenor/ThreadsExercicio-5-SO1)
+
 ## Índice
 =================
 <!--ts-->
